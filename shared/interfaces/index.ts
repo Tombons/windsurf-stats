@@ -1,5 +1,5 @@
 export * from './Gear'
-export * from './spot'
+export * from './Spot'
 export * from './Session'
 export * from './User'
 export * from './WindguruConditions'
